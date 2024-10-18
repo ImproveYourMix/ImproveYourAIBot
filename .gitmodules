@@ -1,6 +1,6 @@
 [submodule "QtVideoTranscriber"]
 	path = QtVideoTranscriber
-	url = git@github.com:redirect11/QtVideoTranscriber.git
+	url = https://github.com/ImproveYourMix/QtVideoTranscriber
 [submodule "ImproveYourAIBotReact"]
 	path = ImproveYourAIBotReact
-	url = git@github.com:redirect11/ImproveYourAIBotReact.git
+	url = https://github.com/ImproveYourMix/ImproveYourAIBotReact
